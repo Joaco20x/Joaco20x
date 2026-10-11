@@ -1,8 +1,8 @@
-# ¡Hola! Soy Joaquin 👋
+# ¡Hola! Soy Joaco 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+Civil+Inform%C3%A1tica;Backend+Developer+%26+Microservices;Clean+Architecture+%26+Linux+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=false&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+Civil+Inform%C3%A1tica;Backend+Developer+%26+Microservices;Clean+Architecture+%26+.NET+Core;Arch+Linux+Enthusiast)
 
-Estudiante de **Ingeniería Civil Informática** enfocado en el desarrollo **Backend**, **Arquitectura de Microservicios** y **Sistemas Distribuidos**. Me apasiona diseñar software escalable, mantener código limpio y trabajar en entornos Linux.
+Estudiante de **Ingeniería Civil Informática** en la Universidad Católica de Temuco (UCT), enfocado en el desarrollo **Backend**, **Arquitectura de Microservicios** y **Sistemas Distribuidos**. Me apasiona diseñar software escalable, mantener código limpio y trabajar en entornos Linux.
 
 ---
 
@@ -10,7 +10,7 @@ Estudiante de **Ingeniería Civil Informática** enfocado en el desarrollo **Bac
 - 🏛️ Diseñando e implementando arquitecturas **Clean Architecture** y **Microservicios**.
 - 🐳 Desplegando entornos contenedorizados con **Docker** y **Docker Compose**.
 - 🔗 Construyendo comunicaciones eficientes entre servicios con **gRPC** y **Protocol Buffers**.
-- 🛠️ Desarrollando APIs robustas con **Python** (FastAPI, Django), **Go** y **.NET Core (C#)**.
+- 🛠️ Desarrollando aplicaciones robustas con **C# (.NET Core)**, **Python** (FastAPI, Django) y **Go**.
 - 🐧 Configurando y personalizando entornos **Arch Linux** con Zsh y KDE Plasma.
 
 ---
@@ -18,9 +18,9 @@ Estudiante de **Ingeniería Civil Informática** enfocado en el desarrollo **Bac
 ### 🛠️ Tech Stack & Herramientas
 
 #### Lenguajes de Programación
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 #### Backend & Arquitectura
@@ -42,7 +42,7 @@ Estudiante de **Ingeniería Civil Informática** enfocado en el desarrollo **Bac
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joaco20x&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaco20x&layout=compact&theme=tokyonight&count_private=true&langs_count=6/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaco20x&layout=compact&theme=tokyonight&count_private=true&langs_count=6" alt="Lenguajes más usados" width="48%" />
 </p>
 
 <p align="center">
@@ -51,6 +51,6 @@ Estudiante de **Ingeniería Civil Informática** enfocado en el desarrollo **Bac
 
 ---
 
-### 📫 Contacto
+### 📫 Contacto y Redes
 
-[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Joaquinvalenzuela559@gmail.com)
+[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaquinvalenzuela559@gmail.com)
