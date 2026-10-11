@@ -41,17 +41,16 @@ Estudiante de **Ingeniería Civil Informática** enfocado en el desarrollo **Bac
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joaco20x&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaco20x&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" alt="Racha de Commits" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joaco20x&theme=tokyonight" alt="Racha de Commits" width="98%" />
 </p>
 
 ---
 
-### 📫 Contacto y Redes
+### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
-[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Joaquinvalenzuela559@gmail.com)
