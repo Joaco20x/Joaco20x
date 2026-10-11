@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer;Sistemas+distribuidos+y+microservicios;Clean+Architecture+con+.NET+y+Python;Entusiasta+de+Linux+y+ciberseguridad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer;Sistemas+distribuidos+y+microservicios;Clean+Architecture+con+.NET+y+Python;Entusiasta+de+Linux" alt="Typing SVG" />
 </p>
 
 <p align="center">
   Estudiante de <b>Ingeniería Civil Informática</b> en la <b>Universidad Católica de Temuco</b>.
-  Construyo backends escalables, me interesan las redes y la ciberseguridad, y tomo proyectos freelance de desarrollo web para negocios locales.
+  Construyo backends escalables, me interesan las redes y la ciberseguridad.
 </p>
 
 <p align="center">
