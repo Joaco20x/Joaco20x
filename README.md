@@ -49,19 +49,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joaco20x&theme=tokyonight&hide_border=true" alt="Racha de commits" width="98%" />
 </p>
 
-<br>
 
----
-
-## 🔭 En qué estoy trabajando
-
-- Proyectos de networking y ciberseguridad como parte de mi formación
-- Aplicaciones web para clientes locales
-- Estudio para la certificación CCNA
-
-<br>
-
----
 
 ## 📫 Contacto
 
