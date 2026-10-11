@@ -42,7 +42,7 @@ Estudiante de **Ingeniería Civil Informática** enfocado en el desarrollo **Bac
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joaco20x&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaco20x&layout=compact&theme=tokyonight&count_private=true&langs_count=6)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaco20x&layout=compact&theme=tokyonight&count_private=true&langs_count=6/">
 </p>
 
 <p align="center">
